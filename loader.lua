@@ -3,13 +3,13 @@
 -- ═══════════════════════════════════════════════════════════════
 
 local SupportedGames = {
-    -- Contoh Game 2: Pet Simulator 99
-	[8737899170] = "https://raw.githubusercontent.com/YourUsername/YourRepo/main/games/petsim99.lua",
+    -- Game 1: Survive Overnight in a Mega Store
+	[127380660530951] = "https://raw.githubusercontent.com/7a2c0b2140cd4d65b7a2-8137b723d13b-fly/KeySystem/main/games/SurviveOvernightMegaStore.lua",
 
-    -- Contoh Game 3: Blade Ball
+    -- Game 2: Blade Ball
 	[13772394625] = "https://raw.githubusercontent.com/YourUsername/YourRepo/main/games/bladeball.lua",
 
-    -- Contoh Game 4: Arsenal
+    -- Game 3: Arsenal
 	[286090429] = "https://raw.githubusercontent.com/YourUsername/YourRepo/main/games/arsenal.lua",
 
 }
